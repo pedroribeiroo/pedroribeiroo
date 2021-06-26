@@ -2,12 +2,10 @@
 
 Enthusiast of the best web & mobile development technologies.
 
-🚀 CTO at [@ZIRAFLIX](https://github.com/ZIRAFLIX/) <br>
 🇧🇷 Living in Minas Gerais, Brazil
 
 ### What I'm working on 👨‍💻
 
-💼 Currently working at ZIRAFLIX - [ZIRAFLIX](https://zirafix.com) <br>
 📚 Currently studying about - [ReactJS](https://pt-br.reactjs.org/)
 
 <!---
